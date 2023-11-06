@@ -1,0 +1,114 @@
+h1{
+    text-align: center;
+    color:black;
+}
+
+
+#banner{
+    width: 100%;
+    object-fit: cover;
+}
+
+
+#about{
+    display: flex;
+    max-width: 800px;
+    margin: 0 auto;
+    padding-right: 8px;
+}
+
+#teamimg{
+    border-radius: 5px;
+    width: 100%;
+    
+}
+
+#discription{
+    width: 50%;
+    padding: 0 8px;
+
+    
+}
+
+#team{
+    width: 50%;
+}
+
+.location{
+    color: grey;
+    margin-bottom: 16px;
+}
+
+body{
+    margin: 0%;
+    padding: 0%;
+    font-family: sans-serif;
+}
+
+#navbar{
+    padding: 8px;
+
+}
+
+#logo{
+    height: 50px;
+    
+}
+
+h2{
+    text-align: center;
+
+}
+
+#jobs{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 8px;
+}
+
+h3{
+    margin-bottom: 1px;
+    
+}
+
+
+.apply{
+    margin-top: 0%;
+    margin-bottom:0;
+    float: right;
+    text-decoration: none;
+}
+
+
+.course a {
+    text-decoration: none;
+    margin-bottom: 10px;
+}
+
+
+#footer{
+    background-color:ghostwhite;
+    padding: 8px;
+    margin-top: 32px;
+}
+
+
+#footer-links{
+    list-style: none;
+    /* display: flex; */
+}
+
+
+#footer-links a{
+    text-decoration: none;
+}
+
+#footer-links li{
+    margin: 16px;
+    text-align: center;    
+    display: inline;
+}
+
+.copy{
+    color: grey;
+}
