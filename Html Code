@@ -1,0 +1,100 @@
+</div>
+<img id="banner" src="Banner.jpg" alt="banner" height="240">
+<h1>About Aslan</h1>
+
+<div id="about">
+    <div id="discription">
+
+        <p style="margin-top: 0%;"> at Aslan,we're on a mission to build the worlds's most highly reputed
+            technical university,and we're building it completely online.we offer
+            several begginer friendly courses that are taken by 300,000+registeres users.
+        <p>We also offer 2 industry-foucsed bootcamps:</p>
+
+
+
+        <ol>
+            <div class="course">
+                <li>
+                    <a href="https://jovian.com/program/jovian-full-stack-developer-bootcamp" target="_blank">
+                        Aslan Full Stack Developer Bootcamp
+                    </a>
+                </li>
+                <li>
+                    <a href="https://jovian.com/program/jovian-data-science-bootcamp" target="_blank">
+                        Aslan Data Sciece Bootcamp
+                    </a>
+                </li>
+            </div>
+
+        </ol>
+        </p>
+    </div>
+    <div id="team">
+
+        <img id="teamimg" src="Team.jpg" alt="team">
+    </div>
+</div>
+
+
+
+
+
+
+<!------------------------>
+
+<h2>Job Opportunities</h2>
+
+<div id="jobs">
+    <div>
+
+        <h3 class="jobrole">Frontend Developer</h3>
+        <p><a href="mailto:support@jovian.com?subject=Frontend Developer" target="_blank"  class="apply">Apply</a></p>
+        <div class="location">Bangalore , India</div>
+    </div>
+
+
+
+    <!------------------------>
+    <div>
+        <h3 class="jobrole">Backend Developer</h3>
+        <p><a href="mailto:support@jovian.com?subject=Backend Developer" target="_blank"  class="apply">Apply</a></p>
+        <div class="location">Remote</div>
+    </div>
+
+
+
+    <!------------------------>
+    <div>
+        <h3 class="jobrole">Data Scientist </h3>
+        <p><a href="mailto:support@jovian.com?subject=Data Scientist" target="_blank" class="apply">Apply</a></p>
+        <div class="location">Mumbai , India</div>
+    </div>
+
+</div>
+
+
+
+<!------------------------>
+<div id="footer">
+    <ul id="footer-links">
+        <!-- <div id="list2"> -->
+            <li>
+                <a href="https://jovian.com/learn" target="_blank">
+                    courses
+                </a>
+            </li>
+            <li>
+                <a href="https://jovian.com/learn" target="_blank">
+                    Programs
+                </a>
+            </li>
+            <li>
+                <a href="https://jovian.com/learn" target="_blank">
+                    Youtube
+                </a>
+            </li>
+        <!-- </div> -->
+    </ul>
+    <div class="copy" >© 2023 Aslan</div>
+</div>
+<!------------------------>
